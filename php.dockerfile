@@ -9,3 +9,5 @@ RUN docker-php-ext-install pdo pdo_mysql exif bcmath sockets
 RUN php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');" && php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 
 RUN mkdir -p /var/www/html
+
+WORKDIR /var/www/html
