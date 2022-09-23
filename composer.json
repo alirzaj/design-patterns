@@ -10,7 +10,8 @@
   "require-dev": {},
   "autoload": {
     "psr-4": {
-      "factory\\": "factory/"
+      "factory\\": "factory/",
+      "adapter\\": "adapter/"
     }
   },
   "autoload-dev": {"psr-4": {}},
