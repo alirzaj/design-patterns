@@ -12,7 +12,8 @@
     "psr-4": {
       "factory\\": "factory/",
       "adapter\\": "adapter/",
-      "singleton\\": "singleton/"
+      "singleton\\": "singleton/",
+      "builder\\": "builder/"
     }
   },
   "autoload-dev": {"psr-4": {}},
