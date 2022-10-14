@@ -14,7 +14,8 @@
       "adapter\\": "adapter/",
       "singleton\\": "singleton/",
       "builder\\": "builder/",
-      "decorator\\": "decorator/"
+      "decorator\\": "decorator/",
+      "command\\": "command/"
     }
   },
   "autoload-dev": {"psr-4": {}},
