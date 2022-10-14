@@ -15,7 +15,8 @@
       "singleton\\": "singleton/",
       "builder\\": "builder/",
       "decorator\\": "decorator/",
-      "command\\": "command/"
+      "command\\": "command/",
+      "state\\": "state/"
     }
   },
   "autoload-dev": {"psr-4": {}},
